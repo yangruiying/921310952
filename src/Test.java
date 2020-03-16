@@ -73,6 +73,7 @@ class homework {
         }
         System.out.println();
         System.out.println("101-20000000所有素数之和为" + sum);
+        System.out.println("帝皇侠");
     }
 }
 
