@@ -76,6 +76,8 @@ class homework {
         System.out.println("帝皇侠");
         System.out.println("aaa");
         System.out.println("bbb");
+        System.out.println("ccc");
+
     }
 
 }
