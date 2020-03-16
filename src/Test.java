@@ -72,7 +72,7 @@ class homework {
             p = 1;
         }
         System.out.println();
-        System.out.println("101-200所有素数之和为" + sum);
+        System.out.println("101-20000000所有素数之和为" + sum);
     }
 }
 
