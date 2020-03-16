@@ -56,7 +56,7 @@ class homework {
      * 4.	写出打印101-200只有的所有素数，并求出所素数的和的代码。
      */
     public void prime() {
-        System.out.println("101-200所有素数");
+        System.out.println("0-200所有素数");
         int p = 1;
         int sum = 0;
         for (int i = 0; i <= 200; i++) {
